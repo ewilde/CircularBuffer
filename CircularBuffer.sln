@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.2.8818
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularBuffer", "CircularBuffer\CircularBuffer.csproj", "{4098BD2E-B6A1-4839-834B-6C410CB5D264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularBufferTests", "CircularBufferTests\CircularBufferTests.csproj", "{30077DF2-3A6F-4DDA-8A96-AC55B5E26E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularBufferConsole", "CircularBufferConsole\CircularBufferConsole.csproj", "{EC6DD310-EE6B-482B-B8C8-86AD73A88FD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4098BD2E-B6A1-4839-834B-6C410CB5D264}.Debug|x86.Build.0 = Debug|x86
+		{4098BD2E-B6A1-4839-834B-6C410CB5D264}.Debug|x86.ActiveCfg = Debug|x86
+		{4098BD2E-B6A1-4839-834B-6C410CB5D264}.Release|x86.Build.0 = Release|x86
+		{4098BD2E-B6A1-4839-834B-6C410CB5D264}.Release|x86.ActiveCfg = Release|x86
+		{30077DF2-3A6F-4DDA-8A96-AC55B5E26E15}.Debug|x86.Build.0 = Debug|x86
+		{30077DF2-3A6F-4DDA-8A96-AC55B5E26E15}.Debug|x86.ActiveCfg = Debug|x86
+		{30077DF2-3A6F-4DDA-8A96-AC55B5E26E15}.Release|x86.Build.0 = Release|x86
+		{30077DF2-3A6F-4DDA-8A96-AC55B5E26E15}.Release|x86.ActiveCfg = Release|x86
+		{EC6DD310-EE6B-482B-B8C8-86AD73A88FD1}.Debug|x86.Build.0 = Debug|x86
+		{EC6DD310-EE6B-482B-B8C8-86AD73A88FD1}.Debug|x86.ActiveCfg = Debug|x86
+		{EC6DD310-EE6B-482B-B8C8-86AD73A88FD1}.Release|x86.Build.0 = Release|x86
+		{EC6DD310-EE6B-482B-B8C8-86AD73A88FD1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
